@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="SharePointLogging.Webparts.LoggingDemo.LoggingDemo, $SharePoint.Project.AssemblyFullName$" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">SharePointLogging - Logging Demo</property>
+        <property name="Description" type="string">Logging Demo</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

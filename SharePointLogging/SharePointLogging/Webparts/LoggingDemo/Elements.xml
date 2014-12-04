@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="LoggingDemo" List="113" Url="_catalogs/wp">
+    <File Path="LoggingDemo\LoggingDemo.webpart" Url="SharePointLogging_LoggingDemo.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="HowCanIDoIt" />
+    </File>
+  </Module>
+</Elements>
